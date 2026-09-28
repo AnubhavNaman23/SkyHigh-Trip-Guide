@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "b1",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Chennai to Kolkata • Semi-Sleeper",
+    "price": 937,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "b2",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Udaipur to Jaipur • AC Seater",
+    "price": 1713,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b3",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Mumbai to Delhi • AC Sleeper",
+    "price": 721,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Delhi"
+  },
+  {
+    "id": "b4",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Hyderabad to Pune • Non-AC Sleeper",
+    "price": 1994,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Pune"
+  },
+  {
+    "id": "b5",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Goa to Jaipur • AC Sleeper",
+    "price": 812,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b6",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Delhi to Chennai • AC Sleeper",
+    "price": 2369,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Delhi",
+    "to": "Chennai"
+  },
+  {
+    "id": "b7",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Hyderabad to Mumbai • Semi-Sleeper",
+    "price": 2079,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b8",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Delhi to Goa • AC Sleeper",
+    "price": 1298,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Delhi",
+    "to": "Goa"
+  },
+  {
+    "id": "b9",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Bangalore to Jaipur • Semi-Sleeper",
+    "price": 1239,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b10",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Pune to Goa • Semi-Sleeper",
+    "price": 1901,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Pune",
+    "to": "Goa"
+  },
+  {
+    "id": "b11",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Mumbai to Jaipur • AC Sleeper",
+    "price": 2141,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b12",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Bangalore to Goa • Non-AC Sleeper",
+    "price": 2838,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Goa"
+  },
+  {
+    "id": "b13",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Udaipur to Pune • Non-AC Sleeper",
+    "price": 695,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "b14",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Hyderabad to Delhi • AC Seater",
+    "price": 1213,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Delhi"
+  },
+  {
+    "id": "b15",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Jaipur to Mumbai • AC Seater",
+    "price": 3389,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Jaipur",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b16",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Bangalore to Hyderabad • Semi-Sleeper",
+    "price": 2186,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b17",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Kolkata to Mumbai • Non-AC Sleeper",
+    "price": 1996,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b18",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Pune to Mumbai • AC Seater",
+    "price": 1114,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Pune",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b19",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Kolkata to Udaipur • AC Sleeper",
+    "price": 1474,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b20",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Chennai to Udaipur • Semi-Sleeper",
+    "price": 2501,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b21",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Bangalore to Goa • Non-AC Sleeper",
+    "price": 1276,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Goa"
+  },
+  {
+    "id": "b22",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Udaipur to Bangalore • AC Seater",
+    "price": 3259,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Bangalore"
+  },
+  {
+    "id": "b23",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Mumbai to Bangalore • Non-AC Sleeper",
+    "price": 1453,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Bangalore"
+  },
+  {
+    "id": "b24",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Udaipur to Chennai • Semi-Sleeper",
+    "price": 775,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "b25",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Bangalore to Hyderabad • AC Seater",
+    "price": 1305,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b26",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Chennai to Mumbai • AC Sleeper",
+    "price": 1736,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b27",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Mumbai to Kolkata • AC Sleeper",
+    "price": 722,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "b28",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Bangalore to Mumbai • Semi-Sleeper",
+    "price": 979,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b29",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Hyderabad to Goa • Semi-Sleeper",
+    "price": 2069,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Goa"
+  },
+  {
+    "id": "b30",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Hyderabad to Chennai • Semi-Sleeper",
+    "price": 1393,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Chennai"
+  },
+  {
+    "id": "b31",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Bangalore to Pune • AC Sleeper",
+    "price": 2787,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Pune"
+  },
+  {
+    "id": "b32",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Chennai to Kolkata • AC Sleeper",
+    "price": 1217,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "b33",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Delhi to Hyderabad • Non-AC Sleeper",
+    "price": 713,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Delhi",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b34",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Kolkata to Pune • AC Sleeper",
+    "price": 2669,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Pune"
+  },
+  {
+    "id": "b35",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Kolkata to Udaipur • Semi-Sleeper",
+    "price": 3464,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b36",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Goa to Udaipur • Semi-Sleeper",
+    "price": 3226,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b37",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Goa to Delhi • Semi-Sleeper",
+    "price": 2285,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Delhi"
+  },
+  {
+    "id": "b38",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Mumbai to Jaipur • AC Sleeper",
+    "price": 705,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b39",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Udaipur to Mumbai • AC Sleeper",
+    "price": 1696,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b40",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Udaipur to Chennai • AC Seater",
+    "price": 2835,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "b41",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Kolkata to Jaipur • AC Seater",
+    "price": 2582,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b42",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Chennai to Delhi • Semi-Sleeper",
+    "price": 2394,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Delhi"
+  },
+  {
+    "id": "b43",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Pune to Kolkata • AC Seater",
+    "price": 1245,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Pune",
+    "to": "Kolkata"
+  },
+  {
+    "id": "b44",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Hyderabad to Pune • Semi-Sleeper",
+    "price": 1257,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Pune"
+  },
+  {
+    "id": "b45",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Chennai to Udaipur • Semi-Sleeper",
+    "price": 3195,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b46",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Udaipur to Jaipur • AC Seater",
+    "price": 2591,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b47",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Udaipur to Chennai • Non-AC Sleeper",
+    "price": 3169,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "b48",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Jaipur to Mumbai • AC Sleeper",
+    "price": 3461,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Jaipur",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b49",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Bangalore to Kolkata • Semi-Sleeper",
+    "price": 3141,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Kolkata"
+  },
+  {
+    "id": "b50",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Chennai to Goa • Semi-Sleeper",
+    "price": 1132,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Goa"
+  },
+  {
+    "id": "b51",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Kolkata to Pune • AC Sleeper",
+    "price": 2961,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Pune"
+  },
+  {
+    "id": "b52",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Goa to Hyderabad • AC Sleeper",
+    "price": 2913,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b53",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Hyderabad to Kolkata • AC Sleeper",
+    "price": 2061,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Kolkata"
+  },
+  {
+    "id": "b54",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Hyderabad to Bangalore • AC Seater",
+    "price": 1906,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Bangalore"
+  },
+  {
+    "id": "b55",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Bangalore to Udaipur • AC Seater",
+    "price": 749,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b56",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Jaipur to Pune • Semi-Sleeper",
+    "price": 2643,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Jaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "b57",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Delhi to Pune • Semi-Sleeper",
+    "price": 2461,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Delhi",
+    "to": "Pune"
+  },
+  {
+    "id": "b58",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Chennai to Jaipur • Semi-Sleeper",
+    "price": 1402,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b59",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Udaipur to Goa • Semi-Sleeper",
+    "price": 2353,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "b60",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Bangalore to Hyderabad • AC Sleeper",
+    "price": 1167,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b61",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Delhi to Kolkata • Semi-Sleeper",
+    "price": 1512,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Delhi",
+    "to": "Kolkata"
+  },
+  {
+    "id": "b62",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Pune to Jaipur • AC Sleeper",
+    "price": 1974,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Pune",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b63",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Delhi to Kolkata • AC Seater",
+    "price": 3259,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Delhi",
+    "to": "Kolkata"
+  },
+  {
+    "id": "b64",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Hyderabad to Udaipur • AC Seater",
+    "price": 780,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b65",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Udaipur to Jaipur • Non-AC Sleeper",
+    "price": 1412,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b66",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Chennai to Mumbai • AC Seater",
+    "price": 660,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b67",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Goa to Delhi • AC Sleeper",
+    "price": 3196,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Delhi"
+  },
+  {
+    "id": "b68",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Mumbai to Goa • Semi-Sleeper",
+    "price": 2735,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Goa"
+  },
+  {
+    "id": "b69",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Mumbai to Delhi • AC Sleeper",
+    "price": 1245,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Delhi"
+  },
+  {
+    "id": "b70",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Mumbai to Jaipur • AC Seater",
+    "price": 682,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b71",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Jaipur to Pune • Semi-Sleeper",
+    "price": 1207,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Jaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "b72",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Kolkata to Jaipur • Non-AC Sleeper",
+    "price": 2929,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b73",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Mumbai to Pune • AC Sleeper",
+    "price": 635,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Pune"
+  },
+  {
+    "id": "b74",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Pune to Mumbai • Non-AC Sleeper",
+    "price": 962,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Pune",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b75",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Bangalore to Udaipur • AC Seater",
+    "price": 2648,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b76",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Hyderabad to Chennai • AC Seater",
+    "price": 2079,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Chennai"
+  },
+  {
+    "id": "b77",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Jaipur to Udaipur • AC Seater",
+    "price": 3246,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Jaipur",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b78",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Goa to Udaipur • AC Seater",
+    "price": 1786,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b79",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Jaipur to Chennai • Semi-Sleeper",
+    "price": 1504,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Jaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "b80",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Bangalore to Delhi • Semi-Sleeper",
+    "price": 614,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Delhi"
+  },
+  {
+    "id": "b81",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Delhi to Chennai • Non-AC Sleeper",
+    "price": 2955,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Delhi",
+    "to": "Chennai"
+  },
+  {
+    "id": "b82",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Kolkata to Goa • AC Sleeper",
+    "price": 1815,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Goa"
+  },
+  {
+    "id": "b83",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Hyderabad to Goa • AC Seater",
+    "price": 1619,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Goa"
+  },
+  {
+    "id": "b84",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Kolkata to Jaipur • Semi-Sleeper",
+    "price": 2110,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b85",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Udaipur to Goa • Non-AC Sleeper",
+    "price": 1222,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "b86",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Hyderabad to Jaipur • Semi-Sleeper",
+    "price": 1646,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b87",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Mumbai to Hyderabad • AC Seater",
+    "price": 1218,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b88",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Kolkata to Hyderabad • AC Sleeper",
+    "price": 2999,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b89",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Pune to Goa • AC Seater",
+    "price": 2650,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Pune",
+    "to": "Goa"
+  },
+  {
+    "id": "b90",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Kolkata to Hyderabad • Non-AC Sleeper",
+    "price": 2455,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b91",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Udaipur to Jaipur • AC Sleeper",
+    "price": 2357,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b92",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Delhi to Bangalore • AC Sleeper",
+    "price": 967,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Delhi",
+    "to": "Bangalore"
+  },
+  {
+    "id": "b93",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Chennai to Udaipur • AC Sleeper",
+    "price": 1799,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b94",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Bangalore to Mumbai • Semi-Sleeper",
+    "price": 3360,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b95",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Jaipur to Goa • AC Sleeper",
+    "price": 1434,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Jaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "b96",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Goa to Bangalore • Non-AC Sleeper",
+    "price": 2161,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "b97",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Goa to Hyderabad • AC Sleeper",
+    "price": 2975,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b98",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Goa to Mumbai • AC Sleeper",
+    "price": 2257,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b99",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Goa to Bangalore • AC Seater",
+    "price": 1004,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "b100",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Chennai to Delhi • AC Seater",
+    "price": 2791,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Delhi"
+  },
+  {
+    "id": "b101",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Goa to Bangalore • AC Seater",
+    "price": 2227,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "b102",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Jaipur to Hyderabad • AC Seater",
+    "price": 1569,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Jaipur",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b103",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Bangalore to Pune • AC Seater",
+    "price": 643,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Pune"
+  },
+  {
+    "id": "b104",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Bangalore to Udaipur • AC Sleeper",
+    "price": 1680,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b105",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Bangalore to Hyderabad • Non-AC Sleeper",
+    "price": 2896,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b106",
+    "type": "buse",
+    "title": "Mercedes Benz",
+    "subtitle": "Hyderabad to Mumbai • Semi-Sleeper",
+    "price": 1526,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b107",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Mumbai to Pune • Semi-Sleeper",
+    "price": 1771,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Pune"
+  },
+  {
+    "id": "b108",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Chennai to Delhi • Non-AC Sleeper",
+    "price": 1038,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Chennai",
+    "to": "Delhi"
+  },
+  {
+    "id": "b109",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Kolkata to Delhi • Non-AC Sleeper",
+    "price": 1218,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Kolkata",
+    "to": "Delhi"
+  },
+  {
+    "id": "b110",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Mumbai to Goa • AC Seater",
+    "price": 3226,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Goa"
+  },
+  {
+    "id": "b111",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Mumbai to Jaipur • Non-AC Sleeper",
+    "price": 2360,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Non-AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Mumbai",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b112",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Pune to Bangalore • Semi-Sleeper",
+    "price": 2250,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Pune",
+    "to": "Bangalore"
+  },
+  {
+    "id": "b113",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Pune to Udaipur • Semi-Sleeper",
+    "price": 3343,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Pune",
+    "to": "Udaipur"
+  },
+  {
+    "id": "b114",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Bangalore to Mumbai • AC Sleeper",
+    "price": 2263,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Bangalore",
+    "to": "Mumbai"
+  },
+  {
+    "id": "b115",
+    "type": "buse",
+    "title": "Tata Motors",
+    "subtitle": "Goa to Pune • AC Seater",
+    "price": 2002,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Pune"
+  },
+  {
+    "id": "b116",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Hyderabad to Goa • Semi-Sleeper",
+    "price": 2828,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1557223562-6c77ef16210f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Hyderabad",
+    "to": "Goa"
+  },
+  {
+    "id": "b117",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Pune to Jaipur • AC Seater",
+    "price": 897,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Pune",
+    "to": "Jaipur"
+  },
+  {
+    "id": "b118",
+    "type": "buse",
+    "title": "Volvo 9600",
+    "subtitle": "Goa to Hyderabad • AC Seater",
+    "price": 843,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "AC Seater",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Goa",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "b119",
+    "type": "buse",
+    "title": "Scania Metrolink",
+    "subtitle": "Pune to Chennai • Semi-Sleeper",
+    "price": 3491,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1544620347-c4fd4a3d5957?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Pune",
+    "to": "Chennai"
+  },
+  {
+    "id": "b120",
+    "type": "buse",
+    "title": "Bharat Benz",
+    "subtitle": "Udaipur to Jaipur • Semi-Sleeper",
+    "price": 1784,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1570125909232-eb263c188f7e?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Semi-Sleeper",
+      "Blanket",
+      "Charging Point",
+      "Water Bottle"
+    ],
+    "from": "Udaipur",
+    "to": "Jaipur"
+  }
+]

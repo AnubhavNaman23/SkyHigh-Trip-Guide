@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "t1",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Delhi to Bangalore • 1AC",
+    "price": 1567,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t2",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Delhi to Bangalore • 1AC",
+    "price": 4673,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t3",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Hyderabad to Pune • Chair Car",
+    "price": 2481,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Pune"
+  },
+  {
+    "id": "t4",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Kolkata to Bangalore • 1AC",
+    "price": 1682,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t5",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Pune to Bangalore • 3AC",
+    "price": 4580,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t6",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Kolkata to Delhi • 1AC",
+    "price": 3250,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Delhi"
+  },
+  {
+    "id": "t7",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Bangalore to Kolkata • Chair Car",
+    "price": 1019,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t8",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Pune to Mumbai • Chair Car",
+    "price": 2527,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t9",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Kolkata to Pune • 1AC",
+    "price": 5532,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Pune"
+  },
+  {
+    "id": "t10",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Hyderabad to Delhi • Sleeper",
+    "price": 4640,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Delhi"
+  },
+  {
+    "id": "t11",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Delhi to Udaipur • 3AC",
+    "price": 5462,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Udaipur"
+  },
+  {
+    "id": "t12",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Delhi to Udaipur • 1AC",
+    "price": 5563,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Udaipur"
+  },
+  {
+    "id": "t13",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Bangalore to Delhi • Chair Car",
+    "price": 5084,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Delhi"
+  },
+  {
+    "id": "t14",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Chennai to Bangalore • 3AC",
+    "price": 4603,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Chennai",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t15",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Goa to Bangalore • Chair Car",
+    "price": 749,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t16",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Jaipur to Bangalore • 1AC",
+    "price": 1971,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Jaipur",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t17",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Goa to Chennai • Chair Car",
+    "price": 4512,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Chennai"
+  },
+  {
+    "id": "t18",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Delhi to Goa • Chair Car",
+    "price": 3942,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Goa"
+  },
+  {
+    "id": "t19",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Pune to Udaipur • 1AC",
+    "price": 3471,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Udaipur"
+  },
+  {
+    "id": "t20",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Goa to Delhi • Chair Car",
+    "price": 525,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Delhi"
+  },
+  {
+    "id": "t21",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Udaipur to Mumbai • 1AC",
+    "price": 4336,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Udaipur",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t22",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Goa to Jaipur • 3AC",
+    "price": 2285,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t23",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Hyderabad to Delhi • 1AC",
+    "price": 1500,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Delhi"
+  },
+  {
+    "id": "t24",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Delhi to Udaipur • 1AC",
+    "price": 5394,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Udaipur"
+  },
+  {
+    "id": "t25",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Goa to Mumbai • 2AC",
+    "price": 3643,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t26",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Hyderabad to Delhi • Chair Car",
+    "price": 2442,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Delhi"
+  },
+  {
+    "id": "t27",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Goa to Pune • Chair Car",
+    "price": 2364,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Pune"
+  },
+  {
+    "id": "t28",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Kolkata to Mumbai • Sleeper",
+    "price": 4020,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t29",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Udaipur to Hyderabad • 3AC",
+    "price": 4732,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Udaipur",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "t30",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Bangalore to Chennai • 1AC",
+    "price": 1070,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Chennai"
+  },
+  {
+    "id": "t31",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Mumbai to Delhi • 3AC",
+    "price": 4874,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Delhi"
+  },
+  {
+    "id": "t32",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Delhi to Udaipur • 1AC",
+    "price": 2835,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Udaipur"
+  },
+  {
+    "id": "t33",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Chennai to Goa • Sleeper",
+    "price": 3085,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Chennai",
+    "to": "Goa"
+  },
+  {
+    "id": "t34",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Kolkata to Delhi • Sleeper",
+    "price": 5950,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Delhi"
+  },
+  {
+    "id": "t35",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Pune to Delhi • 3AC",
+    "price": 4413,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Delhi"
+  },
+  {
+    "id": "t36",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Hyderabad to Kolkata • 1AC",
+    "price": 4244,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t37",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Chennai to Mumbai • 1AC",
+    "price": 2324,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Chennai",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t38",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Delhi to Goa • 3AC",
+    "price": 5531,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Goa"
+  },
+  {
+    "id": "t39",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Chennai to Hyderabad • Chair Car",
+    "price": 977,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Chennai",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "t40",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Goa to Pune • Chair Car",
+    "price": 3534,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Pune"
+  },
+  {
+    "id": "t41",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Bangalore to Jaipur • Sleeper",
+    "price": 1350,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t42",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Chennai to Bangalore • Chair Car",
+    "price": 2788,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Chennai",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t43",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Kolkata to Chennai • Sleeper",
+    "price": 5651,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Chennai"
+  },
+  {
+    "id": "t44",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Jaipur to Udaipur • 3AC",
+    "price": 1163,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Jaipur",
+    "to": "Udaipur"
+  },
+  {
+    "id": "t45",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Jaipur to Goa • 2AC",
+    "price": 2498,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Jaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "t46",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Pune to Goa • Sleeper",
+    "price": 5529,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Goa"
+  },
+  {
+    "id": "t47",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Udaipur to Hyderabad • Chair Car",
+    "price": 5676,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Udaipur",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "t48",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Goa to Mumbai • 1AC",
+    "price": 940,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t49",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Udaipur to Bangalore • 1AC",
+    "price": 4572,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Udaipur",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t50",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Goa to Hyderabad • Chair Car",
+    "price": 5663,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "t51",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Hyderabad to Mumbai • 2AC",
+    "price": 5706,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t52",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Kolkata to Bangalore • Sleeper",
+    "price": 583,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t53",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Bangalore to Hyderabad • 3AC",
+    "price": 1898,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "t54",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Goa to Kolkata • 2AC",
+    "price": 1696,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t55",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Mumbai to Kolkata • 3AC",
+    "price": 2622,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t56",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Goa to Kolkata • 1AC",
+    "price": 3131,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t57",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Delhi to Jaipur • Chair Car",
+    "price": 2491,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t58",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Pune to Mumbai • 2AC",
+    "price": 4650,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t59",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Bangalore to Jaipur • 1AC",
+    "price": 3612,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t60",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Goa to Chennai • 3AC",
+    "price": 5081,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Chennai"
+  },
+  {
+    "id": "t61",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Goa to Udaipur • 2AC",
+    "price": 3356,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Udaipur"
+  },
+  {
+    "id": "t62",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Delhi to Goa • 3AC",
+    "price": 3810,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Goa"
+  },
+  {
+    "id": "t63",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Udaipur to Delhi • 2AC",
+    "price": 5215,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Udaipur",
+    "to": "Delhi"
+  },
+  {
+    "id": "t64",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Jaipur to Goa • Chair Car",
+    "price": 3433,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Jaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "t65",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Mumbai to Jaipur • 2AC",
+    "price": 4125,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t66",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Mumbai to Bangalore • 3AC",
+    "price": 5412,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t67",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Mumbai to Goa • 3AC",
+    "price": 1153,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Goa"
+  },
+  {
+    "id": "t68",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Hyderabad to Pune • 3AC",
+    "price": 2972,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Pune"
+  },
+  {
+    "id": "t69",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Pune to Chennai • 3AC",
+    "price": 3917,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Chennai"
+  },
+  {
+    "id": "t70",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Jaipur to Kolkata • 3AC",
+    "price": 4856,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Jaipur",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t71",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Pune to Bangalore • 2AC",
+    "price": 3123,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t72",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Goa to Jaipur • Chair Car",
+    "price": 2285,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t73",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Mumbai to Goa • Chair Car",
+    "price": 1420,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Goa"
+  },
+  {
+    "id": "t74",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Pune to Goa • 3AC",
+    "price": 2201,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Goa"
+  },
+  {
+    "id": "t75",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Mumbai to Bangalore • 1AC",
+    "price": 4826,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t76",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Pune to Mumbai • 1AC",
+    "price": 2623,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t77",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Kolkata to Jaipur • 1AC",
+    "price": 1023,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t78",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Udaipur to Chennai • Sleeper",
+    "price": 2168,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Udaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "t79",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Hyderabad to Mumbai • 1AC",
+    "price": 4991,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t80",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Goa to Bangalore • 2AC",
+    "price": 3572,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t81",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Goa to Kolkata • 2AC",
+    "price": 609,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t82",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Mumbai to Delhi • 1AC",
+    "price": 2515,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Delhi"
+  },
+  {
+    "id": "t83",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Udaipur to Jaipur • 1AC",
+    "price": 589,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Udaipur",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t84",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Jaipur to Chennai • Chair Car",
+    "price": 5015,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Jaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "t85",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Bangalore to Delhi • 2AC",
+    "price": 3542,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Delhi"
+  },
+  {
+    "id": "t86",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Jaipur to Bangalore • Chair Car",
+    "price": 4992,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Jaipur",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t87",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Goa to Kolkata • 1AC",
+    "price": 4486,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Goa",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t88",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Delhi to Kolkata • 1AC",
+    "price": 3495,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t89",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Kolkata to Goa • 3AC",
+    "price": 3331,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Goa"
+  },
+  {
+    "id": "t90",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Jaipur to Hyderabad • Chair Car",
+    "price": 5954,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Jaipur",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "t91",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Mumbai to Hyderabad • 2AC",
+    "price": 3896,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "t92",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Mumbai to Bangalore • 3AC",
+    "price": 4473,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t93",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Kolkata to Goa • 2AC",
+    "price": 1882,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Goa"
+  },
+  {
+    "id": "t94",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Udaipur to Bangalore • 3AC",
+    "price": 3177,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Udaipur",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t95",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Hyderabad to Jaipur • Chair Car",
+    "price": 2325,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t96",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Kolkata to Goa • 2AC",
+    "price": 1155,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Goa"
+  },
+  {
+    "id": "t97",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Kolkata to Hyderabad • Chair Car",
+    "price": 531,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "t98",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Hyderabad to Bangalore • Chair Car",
+    "price": 771,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t99",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Hyderabad to Bangalore • Chair Car",
+    "price": 1870,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t100",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Delhi to Kolkata • 2AC",
+    "price": 1613,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t101",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Hyderabad to Mumbai • Chair Car",
+    "price": 1403,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t102",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Delhi to Chennai • Chair Car",
+    "price": 1871,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Chennai"
+  },
+  {
+    "id": "t103",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Pune to Hyderabad • Sleeper",
+    "price": 4605,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "t104",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Bangalore to Hyderabad • Chair Car",
+    "price": 1269,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "t105",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Jaipur to Bangalore • 1AC",
+    "price": 4171,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Jaipur",
+    "to": "Bangalore"
+  },
+  {
+    "id": "t106",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Hyderabad to Udaipur • Sleeper",
+    "price": 2904,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Hyderabad",
+    "to": "Udaipur"
+  },
+  {
+    "id": "t107",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Jaipur to Goa • 3AC",
+    "price": 4188,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Jaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "t108",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Udaipur to Mumbai • 3AC",
+    "price": 5416,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Udaipur",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t109",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Mumbai to Kolkata • Chair Car",
+    "price": 2655,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Chair Car",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Mumbai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "t110",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Bangalore to Delhi • Sleeper",
+    "price": 1453,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Delhi"
+  },
+  {
+    "id": "t111",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Kolkata to Mumbai • Sleeper",
+    "price": 3858,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t112",
+    "type": "train",
+    "title": "Tejas Express Express",
+    "subtitle": "Pune to Jaipur • Sleeper",
+    "price": 3342,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t113",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Bangalore to Mumbai • 1AC",
+    "price": 3219,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t114",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Pune to Jaipur • 3AC",
+    "price": 4087,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Jaipur"
+  },
+  {
+    "id": "t115",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Bangalore to Pune • 2AC",
+    "price": 1347,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1474487548417-781cb71495f3?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Pune"
+  },
+  {
+    "id": "t116",
+    "type": "train",
+    "title": "Shatabdi Express",
+    "subtitle": "Pune to Mumbai • 1AC",
+    "price": 4552,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1532305523713-5d1607149395?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "1AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Pune",
+    "to": "Mumbai"
+  },
+  {
+    "id": "t117",
+    "type": "train",
+    "title": "Duronto Express",
+    "subtitle": "Kolkata to Delhi • 3AC",
+    "price": 4798,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "3AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Kolkata",
+    "to": "Delhi"
+  },
+  {
+    "id": "t118",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Udaipur to Pune • Sleeper",
+    "price": 3632,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1515165592879-0704e323b5f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Udaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "t119",
+    "type": "train",
+    "title": "Rajdhani Express",
+    "subtitle": "Delhi to Chennai • Sleeper",
+    "price": 2228,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Sleeper",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Delhi",
+    "to": "Chennai"
+  },
+  {
+    "id": "t120",
+    "type": "train",
+    "title": "Vande Bharat Express",
+    "subtitle": "Bangalore to Chennai • 2AC",
+    "price": 4513,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1596825205489-9ddc07d58996?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "2AC",
+      "Meals Available",
+      "On-time Guarantee"
+    ],
+    "from": "Bangalore",
+    "to": "Chennai"
+  }
+]

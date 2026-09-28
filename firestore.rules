@@ -1,0 +1,23 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+    // Allow users to read and write their own user document
+    match /users/{userId} {
+      allow read, write: if request.auth != null && request.auth.uid == userId;
+      
+      // Allow users to read and write their own bookings
+      match /bookings/{bookingId} {
+        allow read, write: if request.auth != null && request.auth.uid == userId;
+      }
+    }
+    
+    // Public shared trips collection
+    match /trips/{tripId} {
+      // Relaxed rules for "Anyone with the link" style sharing
+      // Since tripIds are random, knowing the ID acts as the key
+      allow read, write: if request.auth != null;
+      // Allow creating new trips
+      allow create: if request.auth != null;
+    }
+  }
+}

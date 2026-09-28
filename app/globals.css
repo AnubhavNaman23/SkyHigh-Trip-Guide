@@ -1,0 +1,165 @@
+@import "tailwindcss";
+
+:root {
+  /* SkyHigh Brand Palette */
+  --background: #f8faff;
+  --foreground: #0e1525;
+  --primary: #1a6be8;
+  --primary-foreground: #ffffff;
+  --primary-dark: #1458c2;
+  --secondary: #eef3ff;
+  --secondary-foreground: #1a3560;
+  --muted: #f0f4fe;
+  --muted-foreground: #6677a0;
+  --accent: #fff7e6;
+  --accent-foreground: #b45309;
+  --border: #dde5f5;
+  --input: #e4ecff;
+  --gold: #f59e0b;
+  --gold-light: #fef3c7;
+  --radius: 0.625rem;
+  --grad-sky: linear-gradient(135deg, #1a6be8 0%, #0ea5e9 50%, #38bdf8 100%);
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --radius-sm: calc(var(--radius) - 2px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-geist-sans), Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.container-custom {
+  @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+}
+
+.btn-primary {
+  @apply inline-flex items-center gap-2 bg-primary text-white font-semibold
+         px-5 py-2.5 rounded-xl hover:opacity-90
+         transition-all duration-200 shadow-sm hover:shadow-md active:scale-[0.97];
+}
+
+.btn-secondary {
+  @apply inline-flex items-center gap-2 bg-white text-primary font-semibold
+         border border-border px-5 py-2.5 rounded-xl
+         hover:bg-secondary transition-all duration-200 shadow-sm hover:shadow-md active:scale-[0.97];
+}
+
+.card {
+  @apply bg-white border border-border rounded-2xl shadow-sm hover:shadow-md transition-shadow duration-200;
+}
+
+/* Animations */
+@keyframes float-y {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+@keyframes fade-up {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+.animate-float-y { animation: float-y 5s ease-in-out infinite; }
+.animate-fade-up { animation: fade-up 0.6s ease-out both; }
+.animation-delay-100 { animation-delay: 0.1s; }
+.animation-delay-200 { animation-delay: 0.2s; }
+.animation-delay-300 { animation-delay: 0.3s; }
+.animation-delay-400 { animation-delay: 0.4s; }
+
+/* Spinner */
+@keyframes ball {
+  from { transform: rotate(0) translateY(-6.5em); }
+  50% { transform: rotate(180deg) translateY(-6em); }
+  to { transform: rotate(360deg) translateY(-6.5em); }
+}
+@keyframes ballInnerShadow {
+  from { transform: rotate(0); }
+  to { transform: rotate(-360deg); }
+}
+@keyframes ballOuterShadow {
+  from { transform: rotate(20deg); }
+  to { transform: rotate(-340deg); }
+}
+@keyframes ballTexture {
+  from { transform: translateX(0); }
+  to { transform: translateX(50%); }
+}
+@keyframes trackCover {
+  from { transform: rotate(0); }
+  to { transform: rotate(360deg); }
+}
+
+.pl {
+  position: relative;
+  width: 10rem;
+  height: 10rem;
+  display: inline-block;
+}
+.pl__outer-ring,
+.pl__inner-ring {
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  border: 6px solid rgba(26,107,232,0.15);
+}
+.pl__inner-ring {
+  inset: 1.25rem;
+  border-width: 8px;
+  border-color: rgba(26,107,232,0.08);
+}
+.pl__track-cover {
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  border: 4px dashed rgba(26,107,232,0.06);
+  animation: trackCover 6s linear infinite;
+}
+.pl__ball {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 3.5rem;
+  height: 3.5rem;
+  transform-origin: center center;
+  transform: translate(-50%, -50%);
+  animation: ball 6s linear infinite;
+}
+.pl__ball-texture {
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  background: radial-gradient(circle at 30% 30%, rgba(255,255,255,0.15), transparent 30%),
+              linear-gradient(90deg, rgba(0,0,0,0.05), rgba(255,255,255,0.02));
+  animation: ballTexture 2s linear infinite alternate;
+}
+.pl__ball-outer-shadow,
+.pl__ball-inner-shadow,
+.pl__ball-side-shadows {
+  position: absolute;
+  inset: 0;
+  border-radius: 9999px;
+  pointer-events: none;
+}
+.pl__ball-outer-shadow { animation: ballOuterShadow 4s linear infinite; }
+.pl__ball-inner-shadow { animation: ballInnerShadow 5s linear infinite; }
+.pl__ball-side-shadows { opacity: 0.25; }

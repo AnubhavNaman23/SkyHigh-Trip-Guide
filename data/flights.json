@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "f1",
+    "type": "flight",
+    "title": "Air India - Jaipur to Goa",
+    "subtitle": "Economy • 2h 6m • Non-stop",
+    "price": 11837,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "15kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "f2",
+    "type": "flight",
+    "title": "SpiceJet - Kolkata to Chennai",
+    "subtitle": "Premium Economy • 3h 31m • Non-stop",
+    "price": 16739,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Chennai"
+  },
+  {
+    "id": "f3",
+    "type": "flight",
+    "title": "SpiceJet - Delhi to Goa",
+    "subtitle": "Premium Economy • 1h 43m • Non-stop",
+    "price": 6812,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "15kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Goa"
+  },
+  {
+    "id": "f4",
+    "type": "flight",
+    "title": "Indigo - Mumbai to Jaipur",
+    "subtitle": "Business • 4h 10m • Non-stop",
+    "price": 14700,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Mumbai",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f5",
+    "type": "flight",
+    "title": "Air India - Udaipur to Delhi",
+    "subtitle": "Premium Economy • 1h 6m • Non-stop",
+    "price": 13227,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Delhi"
+  },
+  {
+    "id": "f6",
+    "type": "flight",
+    "title": "Indigo - Jaipur to Bangalore",
+    "subtitle": "Business • 3h 41m • Non-stop",
+    "price": 9471,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f7",
+    "type": "flight",
+    "title": "Akasa Air - Goa to Bangalore",
+    "subtitle": "Business • 4h 48m • Non-stop",
+    "price": 18197,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "19kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f8",
+    "type": "flight",
+    "title": "Air India - Jaipur to Goa",
+    "subtitle": "Business • 3h 38m • Non-stop",
+    "price": 10505,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "21kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "f9",
+    "type": "flight",
+    "title": "Vistara - Kolkata to Pune",
+    "subtitle": "Premium Economy • 1h 28m • Non-stop",
+    "price": 15066,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "25kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Pune"
+  },
+  {
+    "id": "f10",
+    "type": "flight",
+    "title": "SpiceJet - Udaipur to Mumbai",
+    "subtitle": "Business • 2h 32m • Non-stop",
+    "price": 7914,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f11",
+    "type": "flight",
+    "title": "Indigo - Jaipur to Udaipur",
+    "subtitle": "Economy • 3h 3m • Non-stop",
+    "price": 8428,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f12",
+    "type": "flight",
+    "title": "Air India - Kolkata to Bangalore",
+    "subtitle": "First Class • 4h 7m • Non-stop",
+    "price": 13963,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f13",
+    "type": "flight",
+    "title": "SpiceJet - Kolkata to Mumbai",
+    "subtitle": "Premium Economy • 2h 15m • Non-stop",
+    "price": 3717,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f14",
+    "type": "flight",
+    "title": "Vistara - Delhi to Chennai",
+    "subtitle": "Business • 3h 33m • Non-stop",
+    "price": 9962,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "22kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Chennai"
+  },
+  {
+    "id": "f15",
+    "type": "flight",
+    "title": "Indigo - Hyderabad to Pune",
+    "subtitle": "Economy • 1h 27m • Non-stop",
+    "price": 7641,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Pune"
+  },
+  {
+    "id": "f16",
+    "type": "flight",
+    "title": "Vistara - Jaipur to Delhi",
+    "subtitle": "Premium Economy • 1h 13m • Non-stop",
+    "price": 17484,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "25kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Delhi"
+  },
+  {
+    "id": "f17",
+    "type": "flight",
+    "title": "SpiceJet - Kolkata to Jaipur",
+    "subtitle": "Business • 5h 40m • Non-stop",
+    "price": 14411,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "19kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f18",
+    "type": "flight",
+    "title": "Vistara - Hyderabad to Goa",
+    "subtitle": "First Class • 2h 39m • Non-stop",
+    "price": 11691,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Goa"
+  },
+  {
+    "id": "f19",
+    "type": "flight",
+    "title": "SpiceJet - Jaipur to Pune",
+    "subtitle": "Premium Economy • 1h 46m • Non-stop",
+    "price": 18630,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "f20",
+    "type": "flight",
+    "title": "Vistara - Goa to Chennai",
+    "subtitle": "Premium Economy • 4h 14m • Non-stop",
+    "price": 8924,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Chennai"
+  },
+  {
+    "id": "f21",
+    "type": "flight",
+    "title": "SpiceJet - Udaipur to Kolkata",
+    "subtitle": "Business • 3h 34m • Non-stop",
+    "price": 13509,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "19kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Kolkata"
+  },
+  {
+    "id": "f22",
+    "type": "flight",
+    "title": "Air India - Udaipur to Goa",
+    "subtitle": "Business • 4h 31m • Non-stop",
+    "price": 4179,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "21kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "f23",
+    "type": "flight",
+    "title": "SpiceJet - Mumbai to Kolkata",
+    "subtitle": "Premium Economy • 1h 38m • Non-stop",
+    "price": 15497,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Mumbai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "f24",
+    "type": "flight",
+    "title": "Air India - Chennai to Goa",
+    "subtitle": "Economy • 4h 43m • Non-stop",
+    "price": 5376,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Chennai",
+    "to": "Goa"
+  },
+  {
+    "id": "f25",
+    "type": "flight",
+    "title": "Air India - Jaipur to Pune",
+    "subtitle": "Economy • 3h 21m • Non-stop",
+    "price": 10503,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "f26",
+    "type": "flight",
+    "title": "SpiceJet - Hyderabad to Delhi",
+    "subtitle": "Premium Economy • 2h 13m • Non-stop",
+    "price": 19347,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Delhi"
+  },
+  {
+    "id": "f27",
+    "type": "flight",
+    "title": "Vistara - Goa to Bangalore",
+    "subtitle": "First Class • 4h 32m • Non-stop",
+    "price": 15192,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "19kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f28",
+    "type": "flight",
+    "title": "Air India - Chennai to Delhi",
+    "subtitle": "Premium Economy • 4h 5m • Non-stop",
+    "price": 10020,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Chennai",
+    "to": "Delhi"
+  },
+  {
+    "id": "f29",
+    "type": "flight",
+    "title": "SpiceJet - Goa to Mumbai",
+    "subtitle": "Premium Economy • 3h 26m • Non-stop",
+    "price": 7060,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f30",
+    "type": "flight",
+    "title": "Akasa Air - Goa to Jaipur",
+    "subtitle": "Business • 5h 0m • Non-stop",
+    "price": 12218,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f31",
+    "type": "flight",
+    "title": "SpiceJet - Hyderabad to Udaipur",
+    "subtitle": "Premium Economy • 2h 14m • Non-stop",
+    "price": 14572,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f32",
+    "type": "flight",
+    "title": "Vistara - Udaipur to Goa",
+    "subtitle": "Premium Economy • 5h 1m • Non-stop",
+    "price": 9143,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "f33",
+    "type": "flight",
+    "title": "Indigo - Udaipur to Bangalore",
+    "subtitle": "First Class • 2h 14m • Non-stop",
+    "price": 15245,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "21kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f34",
+    "type": "flight",
+    "title": "Air India - Mumbai to Jaipur",
+    "subtitle": "First Class • 5h 31m • Non-stop",
+    "price": 12390,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Mumbai",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f35",
+    "type": "flight",
+    "title": "Akasa Air - Goa to Delhi",
+    "subtitle": "Premium Economy • 2h 45m • Non-stop",
+    "price": 7977,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "19kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Delhi"
+  },
+  {
+    "id": "f36",
+    "type": "flight",
+    "title": "Akasa Air - Kolkata to Hyderabad",
+    "subtitle": "First Class • 3h 49m • Non-stop",
+    "price": 14890,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "22kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "f37",
+    "type": "flight",
+    "title": "SpiceJet - Jaipur to Goa",
+    "subtitle": "Business • 4h 47m • Non-stop",
+    "price": 5305,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "f38",
+    "type": "flight",
+    "title": "Indigo - Kolkata to Mumbai",
+    "subtitle": "Economy • 5h 35m • Non-stop",
+    "price": 18253,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f39",
+    "type": "flight",
+    "title": "Vistara - Mumbai to Kolkata",
+    "subtitle": "First Class • 4h 47m • Non-stop",
+    "price": 12126,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Mumbai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "f40",
+    "type": "flight",
+    "title": "SpiceJet - Bangalore to Jaipur",
+    "subtitle": "Economy • 4h 29m • Non-stop",
+    "price": 16818,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "15kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Bangalore",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f41",
+    "type": "flight",
+    "title": "Akasa Air - Udaipur to Kolkata",
+    "subtitle": "Business • 2h 36m • Non-stop",
+    "price": 14449,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "25kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Kolkata"
+  },
+  {
+    "id": "f42",
+    "type": "flight",
+    "title": "Air India - Udaipur to Pune",
+    "subtitle": "Premium Economy • 1h 38m • Non-stop",
+    "price": 7705,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "f43",
+    "type": "flight",
+    "title": "SpiceJet - Delhi to Udaipur",
+    "subtitle": "Economy • 4h 25m • Non-stop",
+    "price": 10227,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f44",
+    "type": "flight",
+    "title": "Air India - Goa to Mumbai",
+    "subtitle": "Economy • 1h 21m • Non-stop",
+    "price": 17506,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f45",
+    "type": "flight",
+    "title": "Indigo - Bangalore to Chennai",
+    "subtitle": "Economy • 2h 15m • Non-stop",
+    "price": 10317,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Bangalore",
+    "to": "Chennai"
+  },
+  {
+    "id": "f46",
+    "type": "flight",
+    "title": "SpiceJet - Bangalore to Chennai",
+    "subtitle": "Business • 3h 29m • Non-stop",
+    "price": 13436,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Bangalore",
+    "to": "Chennai"
+  },
+  {
+    "id": "f47",
+    "type": "flight",
+    "title": "Vistara - Udaipur to Mumbai",
+    "subtitle": "Economy • 5h 23m • Non-stop",
+    "price": 15463,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f48",
+    "type": "flight",
+    "title": "Vistara - Delhi to Pune",
+    "subtitle": "First Class • 1h 13m • Non-stop",
+    "price": 18714,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "15kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Pune"
+  },
+  {
+    "id": "f49",
+    "type": "flight",
+    "title": "SpiceJet - Jaipur to Mumbai",
+    "subtitle": "First Class • 1h 26m • Non-stop",
+    "price": 8036,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "19kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f50",
+    "type": "flight",
+    "title": "Indigo - Bangalore to Udaipur",
+    "subtitle": "Economy • 1h 1m • Non-stop",
+    "price": 17193,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "19kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Bangalore",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f51",
+    "type": "flight",
+    "title": "Air India - Mumbai to Pune",
+    "subtitle": "Business • 2h 19m • Non-stop",
+    "price": 13613,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Mumbai",
+    "to": "Pune"
+  },
+  {
+    "id": "f52",
+    "type": "flight",
+    "title": "Air India - Jaipur to Delhi",
+    "subtitle": "Business • 2h 33m • Non-stop",
+    "price": 6314,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "19kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Delhi"
+  },
+  {
+    "id": "f53",
+    "type": "flight",
+    "title": "SpiceJet - Jaipur to Udaipur",
+    "subtitle": "Economy • 1h 50m • Non-stop",
+    "price": 13051,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "21kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f54",
+    "type": "flight",
+    "title": "Air India - Chennai to Pune",
+    "subtitle": "Business • 3h 36m • Non-stop",
+    "price": 8125,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Chennai",
+    "to": "Pune"
+  },
+  {
+    "id": "f55",
+    "type": "flight",
+    "title": "Vistara - Goa to Jaipur",
+    "subtitle": "Economy • 1h 33m • Non-stop",
+    "price": 12760,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "25kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f56",
+    "type": "flight",
+    "title": "Vistara - Udaipur to Goa",
+    "subtitle": "Business • 1h 12m • Non-stop",
+    "price": 10274,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "21kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "f57",
+    "type": "flight",
+    "title": "Air India - Hyderabad to Chennai",
+    "subtitle": "First Class • 2h 40m • Non-stop",
+    "price": 10582,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Chennai"
+  },
+  {
+    "id": "f58",
+    "type": "flight",
+    "title": "Air India - Hyderabad to Goa",
+    "subtitle": "First Class • 4h 10m • Non-stop",
+    "price": 14690,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Goa"
+  },
+  {
+    "id": "f59",
+    "type": "flight",
+    "title": "Akasa Air - Delhi to Hyderabad",
+    "subtitle": "First Class • 3h 26m • Non-stop",
+    "price": 14431,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "21kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "f60",
+    "type": "flight",
+    "title": "Akasa Air - Mumbai to Delhi",
+    "subtitle": "Economy • 2h 21m • Non-stop",
+    "price": 12429,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Mumbai",
+    "to": "Delhi"
+  },
+  {
+    "id": "f61",
+    "type": "flight",
+    "title": "Akasa Air - Goa to Chennai",
+    "subtitle": "Business • 1h 37m • Non-stop",
+    "price": 19278,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "25kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Chennai"
+  },
+  {
+    "id": "f62",
+    "type": "flight",
+    "title": "Vistara - Mumbai to Chennai",
+    "subtitle": "Economy • 2h 28m • Non-stop",
+    "price": 5673,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "25kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Mumbai",
+    "to": "Chennai"
+  },
+  {
+    "id": "f63",
+    "type": "flight",
+    "title": "SpiceJet - Kolkata to Hyderabad",
+    "subtitle": "Business • 5h 16m • Non-stop",
+    "price": 7150,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "f64",
+    "type": "flight",
+    "title": "SpiceJet - Goa to Delhi",
+    "subtitle": "First Class • 2h 21m • Non-stop",
+    "price": 10861,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Delhi"
+  },
+  {
+    "id": "f65",
+    "type": "flight",
+    "title": "SpiceJet - Bangalore to Goa",
+    "subtitle": "Economy • 5h 36m • Non-stop",
+    "price": 10487,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Bangalore",
+    "to": "Goa"
+  },
+  {
+    "id": "f66",
+    "type": "flight",
+    "title": "Vistara - Delhi to Bangalore",
+    "subtitle": "Premium Economy • 3h 19m • Non-stop",
+    "price": 5583,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f67",
+    "type": "flight",
+    "title": "Akasa Air - Hyderabad to Jaipur",
+    "subtitle": "Economy • 3h 31m • Non-stop",
+    "price": 16530,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f68",
+    "type": "flight",
+    "title": "Air India - Goa to Delhi",
+    "subtitle": "Business • 1h 30m • Non-stop",
+    "price": 14664,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Delhi"
+  },
+  {
+    "id": "f69",
+    "type": "flight",
+    "title": "Air India - Pune to Chennai",
+    "subtitle": "Premium Economy • 1h 39m • Non-stop",
+    "price": 7577,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Chennai"
+  },
+  {
+    "id": "f70",
+    "type": "flight",
+    "title": "SpiceJet - Delhi to Goa",
+    "subtitle": "Premium Economy • 1h 36m • Non-stop",
+    "price": 19878,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Goa"
+  },
+  {
+    "id": "f71",
+    "type": "flight",
+    "title": "SpiceJet - Kolkata to Chennai",
+    "subtitle": "Economy • 3h 14m • Non-stop",
+    "price": 7205,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Chennai"
+  },
+  {
+    "id": "f72",
+    "type": "flight",
+    "title": "Vistara - Goa to Pune",
+    "subtitle": "Business • 5h 43m • Non-stop",
+    "price": 6758,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "19kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Pune"
+  },
+  {
+    "id": "f73",
+    "type": "flight",
+    "title": "SpiceJet - Pune to Delhi",
+    "subtitle": "Business • 3h 45m • Non-stop",
+    "price": 13543,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Delhi"
+  },
+  {
+    "id": "f74",
+    "type": "flight",
+    "title": "SpiceJet - Goa to Bangalore",
+    "subtitle": "First Class • 4h 12m • Non-stop",
+    "price": 10822,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "25kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f75",
+    "type": "flight",
+    "title": "Air India - Jaipur to Mumbai",
+    "subtitle": "Premium Economy • 4h 47m • Non-stop",
+    "price": 13870,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f76",
+    "type": "flight",
+    "title": "SpiceJet - Pune to Delhi",
+    "subtitle": "Economy • 4h 26m • Non-stop",
+    "price": 6886,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Delhi"
+  },
+  {
+    "id": "f77",
+    "type": "flight",
+    "title": "Air India - Udaipur to Delhi",
+    "subtitle": "Business • 4h 34m • Non-stop",
+    "price": 12693,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Delhi"
+  },
+  {
+    "id": "f78",
+    "type": "flight",
+    "title": "SpiceJet - Kolkata to Udaipur",
+    "subtitle": "Premium Economy • 4h 43m • Non-stop",
+    "price": 17255,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f79",
+    "type": "flight",
+    "title": "Akasa Air - Jaipur to Udaipur",
+    "subtitle": "Economy • 5h 4m • Non-stop",
+    "price": 14543,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f80",
+    "type": "flight",
+    "title": "SpiceJet - Udaipur to Bangalore",
+    "subtitle": "Business • 5h 24m • Non-stop",
+    "price": 15991,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f81",
+    "type": "flight",
+    "title": "Akasa Air - Bangalore to Pune",
+    "subtitle": "First Class • 5h 3m • Non-stop",
+    "price": 16398,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Bangalore",
+    "to": "Pune"
+  },
+  {
+    "id": "f82",
+    "type": "flight",
+    "title": "Akasa Air - Jaipur to Kolkata",
+    "subtitle": "Premium Economy • 4h 35m • Non-stop",
+    "price": 17749,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "21kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Kolkata"
+  },
+  {
+    "id": "f83",
+    "type": "flight",
+    "title": "SpiceJet - Pune to Chennai",
+    "subtitle": "First Class • 2h 15m • Non-stop",
+    "price": 9451,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Chennai"
+  },
+  {
+    "id": "f84",
+    "type": "flight",
+    "title": "Vistara - Jaipur to Bangalore",
+    "subtitle": "Premium Economy • 2h 15m • Non-stop",
+    "price": 4988,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f85",
+    "type": "flight",
+    "title": "Akasa Air - Delhi to Pune",
+    "subtitle": "Premium Economy • 5h 37m • Non-stop",
+    "price": 12385,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "25kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Pune"
+  },
+  {
+    "id": "f86",
+    "type": "flight",
+    "title": "SpiceJet - Goa to Chennai",
+    "subtitle": "Premium Economy • 4h 17m • Non-stop",
+    "price": 15886,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Chennai"
+  },
+  {
+    "id": "f87",
+    "type": "flight",
+    "title": "Vistara - Delhi to Kolkata",
+    "subtitle": "First Class • 5h 34m • Non-stop",
+    "price": 3852,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "25kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Kolkata"
+  },
+  {
+    "id": "f88",
+    "type": "flight",
+    "title": "Indigo - Pune to Bangalore",
+    "subtitle": "Business • 4h 22m • Non-stop",
+    "price": 6567,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f89",
+    "type": "flight",
+    "title": "SpiceJet - Mumbai to Kolkata",
+    "subtitle": "Premium Economy • 1h 3m • Non-stop",
+    "price": 12843,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Mumbai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "f90",
+    "type": "flight",
+    "title": "SpiceJet - Pune to Bangalore",
+    "subtitle": "First Class • 1h 18m • Non-stop",
+    "price": 14862,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "21kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f91",
+    "type": "flight",
+    "title": "Akasa Air - Delhi to Jaipur",
+    "subtitle": "Economy • 4h 2m • Non-stop",
+    "price": 13146,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "15kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f92",
+    "type": "flight",
+    "title": "Air India - Pune to Mumbai",
+    "subtitle": "Business • 5h 33m • Non-stop",
+    "price": 9546,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f93",
+    "type": "flight",
+    "title": "Air India - Delhi to Bangalore",
+    "subtitle": "First Class • 4h 3m • Non-stop",
+    "price": 13293,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f94",
+    "type": "flight",
+    "title": "Indigo - Bangalore to Jaipur",
+    "subtitle": "Economy • 1h 39m • Non-stop",
+    "price": 15565,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "22kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Bangalore",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f95",
+    "type": "flight",
+    "title": "Akasa Air - Udaipur to Pune",
+    "subtitle": "First Class • 3h 0m • Non-stop",
+    "price": 5806,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "f96",
+    "type": "flight",
+    "title": "Vistara - Goa to Bangalore",
+    "subtitle": "Business • 1h 24m • Non-stop",
+    "price": 17245,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f97",
+    "type": "flight",
+    "title": "Indigo - Delhi to Mumbai",
+    "subtitle": "Economy • 5h 18m • Non-stop",
+    "price": 17757,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "21kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f98",
+    "type": "flight",
+    "title": "SpiceJet - Pune to Goa",
+    "subtitle": "Economy • 5h 16m • Non-stop",
+    "price": 3094,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Goa"
+  },
+  {
+    "id": "f99",
+    "type": "flight",
+    "title": "SpiceJet - Delhi to Goa",
+    "subtitle": "Premium Economy • 2h 10m • Non-stop",
+    "price": 5298,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Goa"
+  },
+  {
+    "id": "f100",
+    "type": "flight",
+    "title": "SpiceJet - Chennai to Jaipur",
+    "subtitle": "Business • 2h 29m • Non-stop",
+    "price": 15063,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Chennai",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f101",
+    "type": "flight",
+    "title": "Indigo - Delhi to Jaipur",
+    "subtitle": "Premium Economy • 5h 0m • Non-stop",
+    "price": 8522,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f102",
+    "type": "flight",
+    "title": "Air India - Pune to Jaipur",
+    "subtitle": "Premium Economy • 3h 34m • Non-stop",
+    "price": 18661,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f103",
+    "type": "flight",
+    "title": "SpiceJet - Kolkata to Mumbai",
+    "subtitle": "Premium Economy • 2h 11m • Non-stop",
+    "price": 15278,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f104",
+    "type": "flight",
+    "title": "SpiceJet - Pune to Udaipur",
+    "subtitle": "Economy • 5h 11m • Non-stop",
+    "price": 9897,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f105",
+    "type": "flight",
+    "title": "Akasa Air - Kolkata to Jaipur",
+    "subtitle": "Economy • 4h 37m • Non-stop",
+    "price": 6986,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Kolkata",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f106",
+    "type": "flight",
+    "title": "Indigo - Hyderabad to Bangalore",
+    "subtitle": "Premium Economy • 1h 40m • Non-stop",
+    "price": 7778,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Bangalore"
+  },
+  {
+    "id": "f107",
+    "type": "flight",
+    "title": "SpiceJet - Hyderabad to Goa",
+    "subtitle": "Business • 2h 43m • Non-stop",
+    "price": 10202,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Goa"
+  },
+  {
+    "id": "f108",
+    "type": "flight",
+    "title": "Indigo - Bangalore to Chennai",
+    "subtitle": "First Class • 3h 9m • Non-stop",
+    "price": 16725,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Bangalore",
+    "to": "Chennai"
+  },
+  {
+    "id": "f109",
+    "type": "flight",
+    "title": "SpiceJet - Udaipur to Chennai",
+    "subtitle": "Economy • 1h 15m • Non-stop",
+    "price": 11513,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Economy",
+      "15kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Udaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "f110",
+    "type": "flight",
+    "title": "Indigo - Hyderabad to Jaipur",
+    "subtitle": "First Class • 3h 16m • Non-stop",
+    "price": 10755,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "21kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f111",
+    "type": "flight",
+    "title": "Akasa Air - Jaipur to Hyderabad",
+    "subtitle": "Premium Economy • 5h 32m • Non-stop",
+    "price": 16302,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1569154941061-e231b4725ef1?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "24kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "f112",
+    "type": "flight",
+    "title": "SpiceJet - Jaipur to Udaipur",
+    "subtitle": "Premium Economy • 1h 37m • Non-stop",
+    "price": 12905,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "17kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Jaipur",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f113",
+    "type": "flight",
+    "title": "Akasa Air - Pune to Jaipur",
+    "subtitle": "Premium Economy • 5h 38m • Non-stop",
+    "price": 12168,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Pune",
+    "to": "Jaipur"
+  },
+  {
+    "id": "f114",
+    "type": "flight",
+    "title": "Indigo - Delhi to Udaipur",
+    "subtitle": "Business • 5h 2m • Non-stop",
+    "price": 12329,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "23kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f115",
+    "type": "flight",
+    "title": "Indigo - Delhi to Udaipur",
+    "subtitle": "Premium Economy • 1h 8m • Non-stop",
+    "price": 14254,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1542296332-2e44a996aa0b?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "22kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Delhi",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f116",
+    "type": "flight",
+    "title": "Air India - Chennai to Hyderabad",
+    "subtitle": "Premium Economy • 1h 37m • Non-stop",
+    "price": 6870,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "19kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Chennai",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "f117",
+    "type": "flight",
+    "title": "SpiceJet - Bangalore to Delhi",
+    "subtitle": "First Class • 5h 44m • Non-stop",
+    "price": 4535,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1556382226-28c9d8d11a20?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Bangalore",
+    "to": "Delhi"
+  },
+  {
+    "id": "f118",
+    "type": "flight",
+    "title": "SpiceJet - Chennai to Mumbai",
+    "subtitle": "First Class • 5h 33m • Non-stop",
+    "price": 8474,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "First Class",
+      "16kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Chennai",
+    "to": "Mumbai"
+  },
+  {
+    "id": "f119",
+    "type": "flight",
+    "title": "SpiceJet - Hyderabad to Udaipur",
+    "subtitle": "Premium Economy • 5h 45m • Non-stop",
+    "price": 13515,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1587019158091-1a103c5dd17f?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Premium Economy",
+      "18kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Hyderabad",
+    "to": "Udaipur"
+  },
+  {
+    "id": "f120",
+    "type": "flight",
+    "title": "SpiceJet - Bangalore to Jaipur",
+    "subtitle": "Business • 4h 6m • Non-stop",
+    "price": 18490,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Business",
+      "20kg Baggage",
+      "Free Meal",
+      "Free Cancellation*"
+    ],
+    "from": "Bangalore",
+    "to": "Jaipur"
+  }
+]

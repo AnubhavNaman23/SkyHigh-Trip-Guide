@@ -1,0 +1,2042 @@
+[
+  {
+    "id": "h1",
+    "type": "hotel",
+    "title": "Marriott Plaza",
+    "subtitle": "Pune, India • Beachfront",
+    "price": 36624,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Jaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "h2",
+    "type": "hotel",
+    "title": "Hyatt Regency Grand",
+    "subtitle": "Mumbai, India • Old Town",
+    "price": 44427,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h3",
+    "type": "hotel",
+    "title": "ITC Grand Grand",
+    "subtitle": "Chennai, India • Old Town",
+    "price": 28284,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Chennai"
+  },
+  {
+    "id": "h4",
+    "type": "hotel",
+    "title": "Hyatt Regency Grand",
+    "subtitle": "Goa, India • City Center",
+    "price": 33967,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Udaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "h5",
+    "type": "hotel",
+    "title": "Marriott Inn",
+    "subtitle": "Hyderabad, India • Beachfront",
+    "price": 36529,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "h6",
+    "type": "hotel",
+    "title": "Taj Palace Inn",
+    "subtitle": "Kolkata, India • Old Town",
+    "price": 10047,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h7",
+    "type": "hotel",
+    "title": "Hyatt Regency Suites",
+    "subtitle": "Udaipur, India • Beachfront",
+    "price": 12010,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Jaipur",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h8",
+    "type": "hotel",
+    "title": "ITC Grand Inn",
+    "subtitle": "Bangalore, India • City Center",
+    "price": 21466,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h9",
+    "type": "hotel",
+    "title": "Lemon Tree Suites",
+    "subtitle": "Delhi, India • Business District",
+    "price": 2901,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Delhi"
+  },
+  {
+    "id": "h10",
+    "type": "hotel",
+    "title": "Taj Palace Grand",
+    "subtitle": "Pune, India • City Center",
+    "price": 23417,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Pune"
+  },
+  {
+    "id": "h11",
+    "type": "hotel",
+    "title": "Taj Palace Grand",
+    "subtitle": "Bangalore, India • Old Town",
+    "price": 46653,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Delhi",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h12",
+    "type": "hotel",
+    "title": "Taj Palace Suites",
+    "subtitle": "Bangalore, India • Beachfront",
+    "price": 46967,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h13",
+    "type": "hotel",
+    "title": "The Oberoi Inn",
+    "subtitle": "Mumbai, India • Beachfront",
+    "price": 31540,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h14",
+    "type": "hotel",
+    "title": "Taj Palace Suites",
+    "subtitle": "Bangalore, India • City Center",
+    "price": 18936,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h15",
+    "type": "hotel",
+    "title": "Radisson Blu Grand",
+    "subtitle": "Chennai, India • Old Town",
+    "price": 49034,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Chennai"
+  },
+  {
+    "id": "h16",
+    "type": "hotel",
+    "title": "The Oberoi Suites",
+    "subtitle": "Kolkata, India • City Center",
+    "price": 21481,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h17",
+    "type": "hotel",
+    "title": "Hyatt Regency Suites",
+    "subtitle": "Bangalore, India • Old Town",
+    "price": 43639,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h18",
+    "type": "hotel",
+    "title": "Hyatt Regency Grand",
+    "subtitle": "Kolkata, India • Near Airport",
+    "price": 6712,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h19",
+    "type": "hotel",
+    "title": "Hyatt Regency Plaza",
+    "subtitle": "Jaipur, India • City Center",
+    "price": 16250,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h20",
+    "type": "hotel",
+    "title": "Taj Palace Inn",
+    "subtitle": "Hyderabad, India • Near Airport",
+    "price": 49155,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Jaipur",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "h21",
+    "type": "hotel",
+    "title": "The Oberoi Grand",
+    "subtitle": "Mumbai, India • City Center",
+    "price": 30496,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h22",
+    "type": "hotel",
+    "title": "Marriott Inn",
+    "subtitle": "Bangalore, India • Business District",
+    "price": 19024,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h23",
+    "type": "hotel",
+    "title": "Radisson Blu Resort",
+    "subtitle": "Kolkata, India • Near Airport",
+    "price": 40993,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h24",
+    "type": "hotel",
+    "title": "Hyatt Regency Grand",
+    "subtitle": "Mumbai, India • Beachfront",
+    "price": 11517,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Delhi",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h25",
+    "type": "hotel",
+    "title": "Radisson Blu Plaza",
+    "subtitle": "Kolkata, India • Beachfront",
+    "price": 33222,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h26",
+    "type": "hotel",
+    "title": "ITC Grand Resort",
+    "subtitle": "Mumbai, India • City Center",
+    "price": 35059,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h27",
+    "type": "hotel",
+    "title": "The Oberoi Inn",
+    "subtitle": "Bangalore, India • Old Town",
+    "price": 26042,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h28",
+    "type": "hotel",
+    "title": "Hyatt Regency Inn",
+    "subtitle": "Goa, India • Business District",
+    "price": 46182,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Jaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "h29",
+    "type": "hotel",
+    "title": "Radisson Blu Suites",
+    "subtitle": "Delhi, India • Business District",
+    "price": 41988,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Delhi"
+  },
+  {
+    "id": "h30",
+    "type": "hotel",
+    "title": "ITC Grand Grand",
+    "subtitle": "Delhi, India • City Center",
+    "price": 42023,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Delhi"
+  },
+  {
+    "id": "h31",
+    "type": "hotel",
+    "title": "The Oberoi Suites",
+    "subtitle": "Udaipur, India • Business District",
+    "price": 27255,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Jaipur",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h32",
+    "type": "hotel",
+    "title": "ITC Grand Plaza",
+    "subtitle": "Goa, India • Business District",
+    "price": 6402,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Goa"
+  },
+  {
+    "id": "h33",
+    "type": "hotel",
+    "title": "ITC Grand Suites",
+    "subtitle": "Chennai, India • Near Airport",
+    "price": 40732,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Udaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "h34",
+    "type": "hotel",
+    "title": "Radisson Blu Suites",
+    "subtitle": "Jaipur, India • Business District",
+    "price": 24934,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Delhi",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h35",
+    "type": "hotel",
+    "title": "Marriott Grand",
+    "subtitle": "Udaipur, India • City Center",
+    "price": 42439,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h36",
+    "type": "hotel",
+    "title": "Marriott Inn",
+    "subtitle": "Pune, India • City Center",
+    "price": 32448,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Pune"
+  },
+  {
+    "id": "h37",
+    "type": "hotel",
+    "title": "The Oberoi Inn",
+    "subtitle": "Goa, India • Beachfront",
+    "price": 6470,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Goa"
+  },
+  {
+    "id": "h38",
+    "type": "hotel",
+    "title": "Lemon Tree Resort",
+    "subtitle": "Chennai, India • Old Town",
+    "price": 29079,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Chennai"
+  },
+  {
+    "id": "h39",
+    "type": "hotel",
+    "title": "Marriott Plaza",
+    "subtitle": "Udaipur, India • Business District",
+    "price": 34266,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h40",
+    "type": "hotel",
+    "title": "Taj Palace Plaza",
+    "subtitle": "Bangalore, India • Old Town",
+    "price": 19678,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h41",
+    "type": "hotel",
+    "title": "Taj Palace Suites",
+    "subtitle": "Delhi, India • Near Airport",
+    "price": 49790,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Delhi"
+  },
+  {
+    "id": "h42",
+    "type": "hotel",
+    "title": "Marriott Suites",
+    "subtitle": "Mumbai, India • Near Airport",
+    "price": 36991,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h43",
+    "type": "hotel",
+    "title": "Taj Palace Plaza",
+    "subtitle": "Chennai, India • Beachfront",
+    "price": 27084,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Delhi",
+    "to": "Chennai"
+  },
+  {
+    "id": "h44",
+    "type": "hotel",
+    "title": "ITC Grand Resort",
+    "subtitle": "Udaipur, India • Old Town",
+    "price": 28134,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h45",
+    "type": "hotel",
+    "title": "Hyatt Regency Suites",
+    "subtitle": "Delhi, India • Beachfront",
+    "price": 25342,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Delhi"
+  },
+  {
+    "id": "h46",
+    "type": "hotel",
+    "title": "Lemon Tree Resort",
+    "subtitle": "Bangalore, India • Beachfront",
+    "price": 34484,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h47",
+    "type": "hotel",
+    "title": "Hyatt Regency Plaza",
+    "subtitle": "Pune, India • Business District",
+    "price": 6074,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Pune"
+  },
+  {
+    "id": "h48",
+    "type": "hotel",
+    "title": "Lemon Tree Resort",
+    "subtitle": "Kolkata, India • Old Town",
+    "price": 49673,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Udaipur",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h49",
+    "type": "hotel",
+    "title": "Lemon Tree Plaza",
+    "subtitle": "Udaipur, India • Near Airport",
+    "price": 36880,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h50",
+    "type": "hotel",
+    "title": "The Oberoi Grand",
+    "subtitle": "Udaipur, India • Business District",
+    "price": 20413,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h51",
+    "type": "hotel",
+    "title": "Marriott Grand",
+    "subtitle": "Jaipur, India • City Center",
+    "price": 24345,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h52",
+    "type": "hotel",
+    "title": "Hyatt Regency Plaza",
+    "subtitle": "Bangalore, India • Old Town",
+    "price": 9868,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h53",
+    "type": "hotel",
+    "title": "Hyatt Regency Grand",
+    "subtitle": "Udaipur, India • City Center",
+    "price": 16329,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h54",
+    "type": "hotel",
+    "title": "Marriott Resort",
+    "subtitle": "Chennai, India • Beachfront",
+    "price": 10316,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Udaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "h55",
+    "type": "hotel",
+    "title": "Lemon Tree Suites",
+    "subtitle": "Jaipur, India • Beachfront",
+    "price": 3662,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h56",
+    "type": "hotel",
+    "title": "Radisson Blu Grand",
+    "subtitle": "Mumbai, India • Near Airport",
+    "price": 36648,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h57",
+    "type": "hotel",
+    "title": "Taj Palace Suites",
+    "subtitle": "Udaipur, India • Old Town",
+    "price": 2873,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h58",
+    "type": "hotel",
+    "title": "Marriott Suites",
+    "subtitle": "Chennai, India • Beachfront",
+    "price": 41024,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Chennai"
+  },
+  {
+    "id": "h59",
+    "type": "hotel",
+    "title": "ITC Grand Inn",
+    "subtitle": "Jaipur, India • City Center",
+    "price": 35133,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h60",
+    "type": "hotel",
+    "title": "Lemon Tree Grand",
+    "subtitle": "Kolkata, India • Beachfront",
+    "price": 10815,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h61",
+    "type": "hotel",
+    "title": "The Oberoi Suites",
+    "subtitle": "Goa, India • Beachfront",
+    "price": 31909,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Goa"
+  },
+  {
+    "id": "h62",
+    "type": "hotel",
+    "title": "The Oberoi Plaza",
+    "subtitle": "Udaipur, India • Old Town",
+    "price": 19137,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Delhi",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h63",
+    "type": "hotel",
+    "title": "The Oberoi Plaza",
+    "subtitle": "Chennai, India • Old Town",
+    "price": 20930,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Chennai"
+  },
+  {
+    "id": "h64",
+    "type": "hotel",
+    "title": "ITC Grand Resort",
+    "subtitle": "Goa, India • Near Airport",
+    "price": 40645,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Goa"
+  },
+  {
+    "id": "h65",
+    "type": "hotel",
+    "title": "Hyatt Regency Plaza",
+    "subtitle": "Udaipur, India • City Center",
+    "price": 26124,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h66",
+    "type": "hotel",
+    "title": "Marriott Inn",
+    "subtitle": "Hyderabad, India • Beachfront",
+    "price": 45172,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "h67",
+    "type": "hotel",
+    "title": "The Oberoi Grand",
+    "subtitle": "Pune, India • Business District",
+    "price": 30991,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Pune"
+  },
+  {
+    "id": "h68",
+    "type": "hotel",
+    "title": "Lemon Tree Resort",
+    "subtitle": "Chennai, India • Beachfront",
+    "price": 45745,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Chennai"
+  },
+  {
+    "id": "h69",
+    "type": "hotel",
+    "title": "Marriott Plaza",
+    "subtitle": "Chennai, India • Beachfront",
+    "price": 6130,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Chennai"
+  },
+  {
+    "id": "h70",
+    "type": "hotel",
+    "title": "Taj Palace Inn",
+    "subtitle": "Udaipur, India • Beachfront",
+    "price": 23687,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h71",
+    "type": "hotel",
+    "title": "Marriott Plaza",
+    "subtitle": "Pune, India • City Center",
+    "price": 12763,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Pune"
+  },
+  {
+    "id": "h72",
+    "type": "hotel",
+    "title": "ITC Grand Plaza",
+    "subtitle": "Delhi, India • Near Airport",
+    "price": 39251,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Delhi"
+  },
+  {
+    "id": "h73",
+    "type": "hotel",
+    "title": "ITC Grand Suites",
+    "subtitle": "Jaipur, India • Beachfront",
+    "price": 30895,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h74",
+    "type": "hotel",
+    "title": "The Oberoi Inn",
+    "subtitle": "Jaipur, India • Beachfront",
+    "price": 23282,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h75",
+    "type": "hotel",
+    "title": "ITC Grand Suites",
+    "subtitle": "Jaipur, India • Business District",
+    "price": 35730,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h76",
+    "type": "hotel",
+    "title": "ITC Grand Suites",
+    "subtitle": "Hyderabad, India • Old Town",
+    "price": 34969,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Jaipur",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "h77",
+    "type": "hotel",
+    "title": "Radisson Blu Suites",
+    "subtitle": "Bangalore, India • Old Town",
+    "price": 10348,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h78",
+    "type": "hotel",
+    "title": "Taj Palace Grand",
+    "subtitle": "Chennai, India • City Center",
+    "price": 16077,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Jaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "h79",
+    "type": "hotel",
+    "title": "Marriott Inn",
+    "subtitle": "Udaipur, India • Beachfront",
+    "price": 11326,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h80",
+    "type": "hotel",
+    "title": "The Oberoi Suites",
+    "subtitle": "Mumbai, India • Beachfront",
+    "price": 16119,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Delhi",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h81",
+    "type": "hotel",
+    "title": "Taj Palace Inn",
+    "subtitle": "Mumbai, India • Business District",
+    "price": 12354,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h82",
+    "type": "hotel",
+    "title": "Hyatt Regency Grand",
+    "subtitle": "Chennai, India • City Center",
+    "price": 26446,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Chennai"
+  },
+  {
+    "id": "h83",
+    "type": "hotel",
+    "title": "Taj Palace Suites",
+    "subtitle": "Chennai, India • Beachfront",
+    "price": 13519,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Chennai"
+  },
+  {
+    "id": "h84",
+    "type": "hotel",
+    "title": "Marriott Grand",
+    "subtitle": "Pune, India • Business District",
+    "price": 16541,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Udaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "h85",
+    "type": "hotel",
+    "title": "ITC Grand Resort",
+    "subtitle": "Bangalore, India • Near Airport",
+    "price": 25608,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h86",
+    "type": "hotel",
+    "title": "The Oberoi Suites",
+    "subtitle": "Mumbai, India • Old Town",
+    "price": 30403,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h87",
+    "type": "hotel",
+    "title": "ITC Grand Suites",
+    "subtitle": "Delhi, India • Beachfront",
+    "price": 45348,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Delhi"
+  },
+  {
+    "id": "h88",
+    "type": "hotel",
+    "title": "Marriott Suites",
+    "subtitle": "Jaipur, India • Old Town",
+    "price": 48370,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h89",
+    "type": "hotel",
+    "title": "Hyatt Regency Plaza",
+    "subtitle": "Kolkata, India • Beachfront",
+    "price": 22924,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Udaipur",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h90",
+    "type": "hotel",
+    "title": "Lemon Tree Plaza",
+    "subtitle": "Delhi, India • City Center",
+    "price": 47167,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Delhi"
+  },
+  {
+    "id": "h91",
+    "type": "hotel",
+    "title": "Radisson Blu Resort",
+    "subtitle": "Bangalore, India • City Center",
+    "price": 45112,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h92",
+    "type": "hotel",
+    "title": "Marriott Inn",
+    "subtitle": "Bangalore, India • City Center",
+    "price": 45972,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h93",
+    "type": "hotel",
+    "title": "Hyatt Regency Plaza",
+    "subtitle": "Udaipur, India • Beachfront",
+    "price": 31036,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Udaipur"
+  },
+  {
+    "id": "h94",
+    "type": "hotel",
+    "title": "Hyatt Regency Suites",
+    "subtitle": "Goa, India • City Center",
+    "price": 9274,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Jaipur",
+    "to": "Goa"
+  },
+  {
+    "id": "h95",
+    "type": "hotel",
+    "title": "Hyatt Regency Resort",
+    "subtitle": "Bangalore, India • Business District",
+    "price": 11019,
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h96",
+    "type": "hotel",
+    "title": "Radisson Blu Plaza",
+    "subtitle": "Jaipur, India • Near Airport",
+    "price": 47597,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h97",
+    "type": "hotel",
+    "title": "Hyatt Regency Plaza",
+    "subtitle": "Chennai, India • Business District",
+    "price": 42072,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Jaipur",
+    "to": "Chennai"
+  },
+  {
+    "id": "h98",
+    "type": "hotel",
+    "title": "Lemon Tree Plaza",
+    "subtitle": "Jaipur, India • Beachfront",
+    "price": 44895,
+    "rating": 3.8,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h99",
+    "type": "hotel",
+    "title": "Lemon Tree Plaza",
+    "subtitle": "Chennai, India • Business District",
+    "price": 48480,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Chennai"
+  },
+  {
+    "id": "h100",
+    "type": "hotel",
+    "title": "Marriott Resort",
+    "subtitle": "Mumbai, India • City Center",
+    "price": 40997,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h101",
+    "type": "hotel",
+    "title": "ITC Grand Plaza",
+    "subtitle": "Chennai, India • Business District",
+    "price": 21742,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Chennai"
+  },
+  {
+    "id": "h102",
+    "type": "hotel",
+    "title": "Radisson Blu Grand",
+    "subtitle": "Mumbai, India • Near Airport",
+    "price": 41109,
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h103",
+    "type": "hotel",
+    "title": "ITC Grand Suites",
+    "subtitle": "Kolkata, India • Old Town",
+    "price": 21437,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h104",
+    "type": "hotel",
+    "title": "Hyatt Regency Grand",
+    "subtitle": "Kolkata, India • Old Town",
+    "price": 19347,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Delhi",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h105",
+    "type": "hotel",
+    "title": "Marriott Grand",
+    "subtitle": "Pune, India • City Center",
+    "price": 24469,
+    "rating": 3.7,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Jaipur",
+    "to": "Pune"
+  },
+  {
+    "id": "h106",
+    "type": "hotel",
+    "title": "The Oberoi Resort",
+    "subtitle": "Goa, India • Old Town",
+    "price": 44479,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Goa"
+  },
+  {
+    "id": "h107",
+    "type": "hotel",
+    "title": "Lemon Tree Inn",
+    "subtitle": "Kolkata, India • Old Town",
+    "price": 35846,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Kolkata"
+  },
+  {
+    "id": "h108",
+    "type": "hotel",
+    "title": "Hyatt Regency Grand",
+    "subtitle": "Hyderabad, India • Beachfront",
+    "price": 19117,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Bangalore",
+    "to": "Hyderabad"
+  },
+  {
+    "id": "h109",
+    "type": "hotel",
+    "title": "Radisson Blu Plaza",
+    "subtitle": "Chennai, India • Business District",
+    "price": 23502,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Chennai"
+  },
+  {
+    "id": "h110",
+    "type": "hotel",
+    "title": "Lemon Tree Plaza",
+    "subtitle": "Chennai, India • Old Town",
+    "price": 14013,
+    "rating": 3.5,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Chennai"
+  },
+  {
+    "id": "h111",
+    "type": "hotel",
+    "title": "Marriott Suites",
+    "subtitle": "Bangalore, India • City Center",
+    "price": 42418,
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Kolkata",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h112",
+    "type": "hotel",
+    "title": "Marriott Grand",
+    "subtitle": "Delhi, India • Old Town",
+    "price": 44514,
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Mumbai",
+    "to": "Delhi"
+  },
+  {
+    "id": "h113",
+    "type": "hotel",
+    "title": "Hyatt Regency Inn",
+    "subtitle": "Pune, India • Old Town",
+    "price": 15154,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Pune"
+  },
+  {
+    "id": "h114",
+    "type": "hotel",
+    "title": "Lemon Tree Suites",
+    "subtitle": "Goa, India • Old Town",
+    "price": 17748,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Pune",
+    "to": "Goa"
+  },
+  {
+    "id": "h115",
+    "type": "hotel",
+    "title": "Taj Palace Inn",
+    "subtitle": "Mumbai, India • Beachfront",
+    "price": 2863,
+    "rating": 3.9,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Mumbai"
+  },
+  {
+    "id": "h116",
+    "type": "hotel",
+    "title": "Radisson Blu Inn",
+    "subtitle": "Delhi, India • Near Airport",
+    "price": 22342,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Standard Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Hyderabad",
+    "to": "Delhi"
+  },
+  {
+    "id": "h117",
+    "type": "hotel",
+    "title": "ITC Grand Grand",
+    "subtitle": "Bangalore, India • Beachfront",
+    "price": 32995,
+    "rating": 3.6,
+    "image": "https://images.unsplash.com/photo-1571003123894-1f0594d2b5d9?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Suite",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Bangalore"
+  },
+  {
+    "id": "h118",
+    "type": "hotel",
+    "title": "Marriott Plaza",
+    "subtitle": "Jaipur, India • Old Town",
+    "price": 36191,
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Family Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Goa",
+    "to": "Jaipur"
+  },
+  {
+    "id": "h119",
+    "type": "hotel",
+    "title": "Taj Palace Resort",
+    "subtitle": "Goa, India • Near Airport",
+    "price": 6043,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Delhi",
+    "to": "Goa"
+  },
+  {
+    "id": "h120",
+    "type": "hotel",
+    "title": "Marriott Resort",
+    "subtitle": "Goa, India • Business District",
+    "price": 47981,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?auto=format&fit=crop&q=80&w=800",
+    "details": [
+      "Deluxe Room",
+      "Breakfast Included",
+      "Free WiFi",
+      "Pool Access"
+    ],
+    "from": "Chennai",
+    "to": "Goa"
+  }
+]
